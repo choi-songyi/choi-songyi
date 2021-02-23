@@ -21,7 +21,7 @@
 
 
 ### 🛠 Skills 
-##### HTML CSS JavaScript React Git&Github
+##### HTML, CSS, SCSS, JavaScript, React, Git&Github
 </br>
 
 
